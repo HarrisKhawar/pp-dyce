@@ -6,9 +6,9 @@ var player2Dice = document.getElementById("player2-dice");
 
 var resultText = document.getElementById("result-text");
 
-player1Dice.setAttribute("src", "/Users/harrismkhawar/Google Drive/Code/WebDev/UdemyCourse/DYCE/images/dice-" + player1 + ".png");
+player1Dice.setAttribute("src", "images/dice-" + player1 + ".png");
 
-player2Dice.setAttribute("src", "/Users/harrismkhawar/Google Drive/Code/WebDev/UdemyCourse/DYCE/images/dice-" + player2 + ".png");
+player2Dice.setAttribute("src", "images/dice-" + player2 + ".png");
 
 if (player1 > player2) {
   resultText.innerText = "Player 1 Wins!";
