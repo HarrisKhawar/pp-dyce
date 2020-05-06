@@ -1,0 +1,62 @@
+body {
+  background-color: #142850;
+}
+
+h3 {
+  font-family: 'Baloo Bhaina 2', cursive;
+  font-size: 2rem;
+}
+
+#body-section {
+  background-color: #dae1e7;
+}
+
+#title-section {
+  padding: 2rem;
+  text-align: center;
+}
+
+.title img {
+  max-width: 40%;
+}
+
+#players-section {
+  text-align: center;
+}
+
+.players h3 {
+  display: inline;
+  margin: 0 10%;
+  color: #27496d;
+}
+
+#dice-section {
+  text-align: center;
+}
+
+.dice img {
+  display: inline-block;
+  max-width: 20%;
+  margin: 0 5%;
+}
+
+#result-section {
+  text-align: center;
+}
+
+.result h3 {
+  margin: 3% auto;
+  width: 50%;
+  color: #142850;
+  border-style: solid;
+}
+
+#instruction-section {
+  text-align: center;
+}
+
+.instruction h3 {
+  font-size: 2rem;
+  color: #00909e;
+  margin: 0;
+}
